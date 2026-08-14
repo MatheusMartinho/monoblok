@@ -50,7 +50,7 @@ so the check could not have failed. Only two things can ground a shape:
    back via MAPI. You cannot produce this yourself, so treat it as the last resort, for when the
    source does not settle it.
 
-The API can still prove server-side *transformation* (normalization, defaults, rejection), just
+The API can still prove server-side _transformation_ (normalization, defaults, rejection), just
 never that a shape is correct.
 
 ## Conventions
